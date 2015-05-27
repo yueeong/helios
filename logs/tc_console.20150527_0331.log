@@ -1,0 +1,10 @@
+2015-05-27 03:31:26,383 - {GenLogCollector} - line[28] : Logger set up...
+2015-05-27 03:31:26,388 - {example} - line[39] : Starting Testcase Setup
+2015-05-27 03:31:26,521 - {example} - line[56] : Test 1
+2015-05-27 03:31:26,631 - {example} - line[63] : Test 2
+2015-05-27 03:31:26,745 - {example} - line[51] : Test case teardown
+2015-05-27 03:31:49,319 - {GenLogCollector} - line[28] : Logger set up...
+2015-05-27 03:31:49,323 - {example} - line[39] : Starting Testcase Setup
+2015-05-27 03:31:49,442 - {example} - line[56] : Test 1
+2015-05-27 03:31:49,549 - {example} - line[63] : Test 2
+2015-05-27 03:31:49,663 - {example} - line[51] : Test case teardown

@@ -1,0 +1,7 @@
+target1:
+  host: "httpbin.org"
+  port: '80'
+
+target2:
+  host: "httpbin.org"
+  port: '80'
